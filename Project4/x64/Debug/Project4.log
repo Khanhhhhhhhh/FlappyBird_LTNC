@@ -1,0 +1,5 @@
+﻿  GetRectFunction.cpp
+C:\Users\trinh\source\repos\Project4\Project4\MainFunction.h(50,2): warning C4091: 'typedef ': ignored on left of 'GeometricFormat' when no variable is declared
+C:\Users\trinh\source\repos\Project4\Project4\MainFunction.h(62,2): warning C4091: 'typedef ': ignored on left of 'ColorData' when no variable is declared
+C:\Users\trinh\source\repos\Project4\Project4\GetRectFunction.cpp(72,24): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+  Project4.vcxproj -> C:\Users\trinh\source\repos\Project4\x64\Debug\Project4.exe
