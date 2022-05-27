@@ -29,7 +29,7 @@
          _ âm thanh khi qua cột
          _ màn hình chính, màn hình khi thua
          _ tùy chọn chơi lại hoặc thoát trò chơi
-        + kèm video minh họa (chèn link video youtube)
+        + kèm video minh họa (chèn link video youtube) : https://youtu.be/HpfhkOuP8yo
         
         4.Các kỹ thuật lập trình được sử dụng trong chương trình (mảng, con trỏ, cấu trúc, lớp, đồ họa ...)
         + xử lý xâu, mảng, con trỏ, class/struct
